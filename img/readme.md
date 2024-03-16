@@ -7,3 +7,5 @@
 |<img src="Hannoi_start.png" width="20" height="20">|Hannoi_start.png|코딩문제예시 설명|
 |<img src="Hannoi_rule.png" width="20" height="20">|Hannoi_rule.png|코딩문제예시 설명|
 |<img src="Hannoi_end.png" width="20" height="20">|Hannoi_end.png|코딩문제예시 설명|
+|<img src="Hannoi_solution_n_1.png" width="20" height="20">|Hannoi_rule.png|코딩문제예시 설명|
+|<img src="Hannoi_solution_n_2.png" width="20" height="20">|Hannoi_end.png|코딩문제예시 설명|
